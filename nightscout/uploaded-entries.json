@@ -124,5 +124,21 @@
     "sgv": 190, 
     "type": "sgv", 
     "glucose": 190
+  }, 
+  {
+    "trend_arrow": "DOUBLE_UP", 
+    "direction": "DoubleUp", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "display_time": "2017-07-02T19:49:00+02:00", 
+    "packet_size": 0, 
+    "dateString": "2017-07-02T19:49:00+02:00", 
+    "date": 1499017740000, 
+    "op": 46, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 92, 
+    "type": "sgv", 
+    "glucose": 92
   }
 ]
