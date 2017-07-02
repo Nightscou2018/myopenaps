@@ -124,37 +124,5 @@
     "sgv": 190, 
     "type": "sgv", 
     "op": 95
-  }, 
-  {
-    "trend_arrow": "DOUBLE_UP", 
-    "glucose": 92, 
-    "direction": "DoubleUp", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 2, 
-    "display_time": "2017-07-02T19:49:00+02:00", 
-    "packet_size": 0, 
-    "dateString": "2017-07-02T19:49:00+02:00", 
-    "device": "openaps://medtronic/pump/cgm", 
-    "date": 1499017740000, 
-    "sgv": 92, 
-    "type": "sgv", 
-    "op": 46
-  }, 
-  {
-    "body": "2d", 
-    "glucose": 45, 
-    "display_time": "2017-07-02T19:44:00+02:00", 
-    "name": "CalBGForGH", 
-    "date_type": "minSpecific", 
-    "_tell": 11, 
-    "dateString": "2017-07-02T19:44:00+02:00", 
-    "packet_size": 5, 
-    "raw": "53-ec-02-11-2d", 
-    "device": "openaps://medtronic/pump/cgm", 
-    "date": 1499017440000, 
-    "sgv": 45, 
-    "type": "pumpdata", 
-    "op": "0x0e"
   }
 ]
