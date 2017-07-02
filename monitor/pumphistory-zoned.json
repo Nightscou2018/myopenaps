@@ -1,6 +1,73 @@
 [
   {
     "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2017-07-02T20:04:02 head[2], body[0] op[0x16]", 
+    "timestamp": "2017-07-02T20:04:02+02:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "42c4144211"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2017-07-02T20:04:02 head[2], body[1] op[0x33]", 
+    "timestamp": "2017-07-02T20:04:02+02:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "42c4144211"
+  }, 
+  {
+    "_type": "PumpResume", 
+    "_description": "PumpResume 2017-07-02T20:03:09 head[2], body[0] op[0x1f]", 
+    "timestamp": "2017-07-02T20:03:09+02:00", 
+    "_body": "", 
+    "_head": "1fc0", 
+    "_date": "49c3140211"
+  }, 
+  {
+    "_type": "PumpResume", 
+    "_description": "PumpResume 2017-07-02T20:03:09 head[2], body[0] op[0x1f]", 
+    "timestamp": "2017-07-02T20:03:09+02:00", 
+    "_body": "", 
+    "_head": "1f66", 
+    "_date": "49c3140211"
+  }, 
+  {
+    "_type": "PumpSuspend", 
+    "_description": "PumpSuspend 2017-07-02T20:03:07 head[2], body[0] op[0x1e]", 
+    "timestamp": "2017-07-02T20:03:07+02:00", 
+    "_body": "", 
+    "_head": "1e43", 
+    "_date": "47c3140211"
+  }, 
+  {
+    "_type": "ClearAlarm", 
+    "_description": "ClearAlarm 2017-07-02T20:03:07 head[2], body[0] op[0x0c]", 
+    "timestamp": "2017-07-02T20:03:07+02:00", 
+    "_body": "", 
+    "_head": "0c67", 
+    "_date": "47c3140211"
+  }, 
+  {
+    "_type": "PumpSuspend", 
+    "_description": "PumpSuspend 2017-07-02T20:03:02 head[2], body[0] op[0x1e]", 
+    "timestamp": "2017-07-02T20:03:02+02:00", 
+    "_body": "", 
+    "_head": "1e02", 
+    "_date": "42c3140211"
+  }, 
+  {
+    "_type": "AlarmPump", 
+    "_description": "AlarmPump 2017-07-02T20:03:01 head[4], body[0] op[0x06]", 
+    "timestamp": "2017-07-02T20:03:01+02:00", 
+    "_body": "", 
+    "_head": "06670155", 
+    "_date": "41c3b48211"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2017-07-02T19:52:20 head[2], body[0] op[0x16]", 
     "timestamp": "2017-07-02T19:52:20+02:00", 
     "_body": "", 
