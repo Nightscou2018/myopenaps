@@ -1,37 +1,5 @@
 [
   {
-    "body": "7e", 
-    "display_time": "2017-07-02T13:27:00+02:00", 
-    "date": 1498994820000, 
-    "name": "CalBGForGH", 
-    "date_type": "minSpecific", 
-    "_tell": 174, 
-    "dateString": "2017-07-02T13:27:00+02:00", 
-    "packet_size": 5, 
-    "raw": "4d-db-02-11-7e", 
-    "op": "0x0e", 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 126, 
-    "type": "pumpdata", 
-    "glucose": 126
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 209, 
-    "display_time": "2017-07-02T11:33:00+02:00", 
-    "packet_size": 0, 
-    "dateString": "2017-07-02T11:33:00+02:00", 
-    "date": 1498987980000, 
-    "op": 103, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 206, 
-    "type": "sgv", 
-    "glucose": 206
-  }, 
-  {
     "body": "d6", 
     "display_time": "2017-07-02T15:25:00+02:00", 
     "date": 1499001900000, 
@@ -124,37 +92,5 @@
     "sgv": 190, 
     "type": "sgv", 
     "glucose": 190
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 2, 
-    "display_time": "2017-07-02T20:13:00+02:00", 
-    "packet_size": 0, 
-    "dateString": "2017-07-02T20:13:00+02:00", 
-    "date": 1499019180000, 
-    "op": 27, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 54, 
-    "type": "sgv", 
-    "glucose": 54
-  }, 
-  {
-    "trend_arrow": "45_DOWN", 
-    "direction": "FortyFiveDown", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "display_time": "2017-07-02T20:08:00+02:00", 
-    "packet_size": 0, 
-    "dateString": "2017-07-02T20:08:00+02:00", 
-    "date": 1499018880000, 
-    "op": 27, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 54, 
-    "type": "sgv", 
-    "glucose": 54
   }
 ]
