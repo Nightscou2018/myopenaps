@@ -1,0 +1,36 @@
+{
+  "requested": {
+    "duration": 30, 
+    "rate": 0, 
+    "temp": "absolute"
+  }, 
+  "bg": 45, 
+  "temp": "absolute", 
+  "snoozeBG": -249, 
+  "timestamp": "2017-07-02T19:46:25.367197", 
+  "predBGs": {
+    "IOB": [
+      45, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39
+    ]
+  }, 
+  "rate": 0.0, 
+  "reason": "COB: 0, Dev: -285, BGI: -2.55, ISF: 27, Target: 80; BG 45<65", 
+  "COB": 0, 
+  "eventualBG": -249, 
+  "recieved": false, 
+  "duration": 14, 
+  "tick": -88, 
+  "IOB": 0.329
+}
