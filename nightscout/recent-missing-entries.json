@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "trend_arrow": "FLAT", 
+    "glucose": 66, 
+    "direction": "Flat", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "display_time": "2017-07-03T13:42:00+02:00", 
+    "packet_size": 0, 
+    "dateString": "2017-07-03T13:42:00+02:00", 
+    "device": "openaps://medtronic/pump/cgm", 
+    "date": 1499082120000, 
+    "sgv": 66, 
+    "type": "sgv", 
+    "op": 33
+  }, 
+  {
+    "body": "48", 
+    "glucose": 72, 
+    "display_time": "2017-07-03T13:41:00+02:00", 
+    "name": "CalBGForGH", 
+    "date_type": "minSpecific", 
+    "_tell": 3, 
+    "dateString": "2017-07-03T13:41:00+02:00", 
+    "packet_size": 5, 
+    "raw": "4d-e9-03-11-48", 
+    "device": "openaps://medtronic/pump/cgm", 
+    "date": 1499082060000, 
+    "sgv": 72, 
+    "type": "pumpdata", 
+    "op": "0x0e"
+  }
+]
