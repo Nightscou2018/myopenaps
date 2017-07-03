@@ -13,8 +13,6 @@
       100, 
       100, 
       100, 
-      100, 
-      100, 
       101, 
       101, 
       101, 
@@ -24,9 +22,7 @@
       101, 
       101, 
       101, 
-      102, 
-      102, 
-      102, 
+      101, 
       102, 
       102, 
       102, 
@@ -36,12 +32,12 @@
       101
     ]
   }, 
-  "rate": 1.175, 
-  "reason": "COB: 0, Dev: -2, BGI: 0.27, ISF: 26, Target: 98; Eventual BG 101 > 85 but Min. Delta 0.00 < Exp. Delta 0.1; setting current basal of 1.2 as temp", 
+  "rate": 1.35, 
+  "reason": "COB: 0, Dev: -1, BGI: 0.23, ISF: 26, Target: 98; Eventual BG 101 > 85 but Min. Delta 0.00 < Exp. Delta 0.1; setting current basal of 1.35 as temp", 
   "COB": 0, 
   "eventualBG": 101, 
-  "timestamp": "2017-07-03T04:59:28.540656", 
+  "timestamp": "2017-07-03T05:10:56.382579", 
   "duration": 30, 
   "tick": "+0", 
-  "IOB": -0.106
+  "IOB": -0.084
 }
