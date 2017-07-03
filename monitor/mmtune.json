@@ -1,1 +1,11 @@
-{}
+{
+  "scanDetails": [
+    [
+      "868.462", 
+      5, 
+      -78
+    ]
+  ], 
+  "setFreq": 868.462, 
+  "usedDefault": false
+}
