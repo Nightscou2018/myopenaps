@@ -1,6 +1,25 @@
 [
   {
     "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2017-07-03T11:48:57 head[2], body[0] op[0x16]", 
+    "timestamp": "2017-07-03T11:48:57+02:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "79f00b4311"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2017-07-03T11:48:57 head[2], body[1] op[0x33]", 
+    "timestamp": "2017-07-03T11:48:57+02:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "79f00b4311"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2017-07-03T11:41:48 head[2], body[0] op[0x16]", 
     "timestamp": "2017-07-03T11:41:48+02:00", 
     "_body": "", 
@@ -456,15 +475,5 @@
     "_head": "3300", 
     "rate": 0.0, 
     "_date": "68f8064311"
-  }, 
-  {
-    "_type": "AlarmSensor", 
-    "_description": "AlarmSensor 2017-07-03T06:44:00 head[3], body[0] op[0x0b]", 
-    "alarm_type": 105, 
-    "alarm_description": "Cal Reminder", 
-    "_body": "", 
-    "_head": "0b6900", 
-    "timestamp": "2017-07-03T06:44:00+02:00", 
-    "_date": "40ec26a311"
   }
 ]
