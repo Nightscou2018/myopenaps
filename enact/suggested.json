@@ -1,1 +1,1 @@
-{"reason":"BG data is too old (it's probably this), or clock set incorrectly.  The last BG data was read at Mon Jul 03 2017 18:11:00 GMT+0200 (CEST) but your system time currently is Mon Jul 03 2017 18:42:46 GMT+0200 (CEST)"}
+{"temp":"absolute","bg":76,"tick":-2,"eventualBG":63,"snoozeBG":63,"predBGs":{"IOB":[76,73,70,67,64,62,60,58,56,55,54,53,53,52,52,52,52,52,53,53,54,54,55,55,56,56,56,57,57,58,58,58,59,59,59,59,60]},"COB":0,"IOB":0.306,"reason":"COB: 0, Dev: -3, BGI: -2.86, ISF: 31, Target: 105; Eventual BG 63 < 90, setting -4.4U/hr","duration":30,"rate":0}
