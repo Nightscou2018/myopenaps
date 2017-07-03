@@ -2,6 +2,63 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2017-07-03T09:25:38 head[2], body[0] op[0x16]", 
+    "timestamp": "2017-07-03T09:25:38", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "66d9094311"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2017-07-03T09:25:38 head[2], body[1] op[0x33]", 
+    "timestamp": "2017-07-03T09:25:38", 
+    "_body": "00", 
+    "_head": "338d", 
+    "rate": 3.525, 
+    "_date": "66d9094311"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2017-07-03T09:18:11 head[2], body[0] op[0x16]", 
+    "timestamp": "2017-07-03T09:18:11", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "4bd2094311"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2017-07-03T09:18:11 head[2], body[1] op[0x33]", 
+    "timestamp": "2017-07-03T09:18:11", 
+    "_body": "00", 
+    "_head": "336c", 
+    "rate": 2.7, 
+    "_date": "4bd2094311"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2017-07-03T09:13:21 head[2], body[0] op[0x16]", 
+    "timestamp": "2017-07-03T09:13:21", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "55cd094311"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2017-07-03T09:13:21 head[2], body[1] op[0x33]", 
+    "timestamp": "2017-07-03T09:13:21", 
+    "_body": "00", 
+    "_head": "332c", 
+    "rate": 1.1, 
+    "_date": "55cd094311"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2017-07-03T09:05:12 head[2], body[0] op[0x16]", 
     "timestamp": "2017-07-03T09:05:12", 
     "_body": "", 
@@ -2944,13 +3001,5 @@
     "_body": "", 
     "_head": "0b6900", 
     "_date": "40e526a211"
-  }, 
-  {
-    "_type": "PumpSuspend", 
-    "_description": "PumpSuspend 2017-07-02T06:20:48 head[2], body[0] op[0x1e]", 
-    "timestamp": "2017-07-02T06:20:48", 
-    "_body": "", 
-    "_head": "1e85", 
-    "_date": "70d4060211"
   }
 ]
