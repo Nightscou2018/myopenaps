@@ -76,53 +76,5 @@
     "sgv": 158, 
     "type": "sgv", 
     "glucose": 158
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "display_time": "2017-07-03T16:19:00+02:00", 
-    "packet_size": 0, 
-    "dateString": "2017-07-03T16:19:00+02:00", 
-    "date": 1499091540000, 
-    "op": 76, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 152, 
-    "type": "sgv", 
-    "glucose": 152
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 4, 
-    "display_time": "2017-07-03T16:14:00+02:00", 
-    "packet_size": 0, 
-    "dateString": "2017-07-03T16:14:00+02:00", 
-    "date": 1499091240000, 
-    "op": 77, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 154, 
-    "type": "sgv", 
-    "glucose": 154
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 5, 
-    "display_time": "2017-07-03T16:09:00+02:00", 
-    "packet_size": 0, 
-    "dateString": "2017-07-03T16:09:00+02:00", 
-    "date": 1499090940000, 
-    "op": 79, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 158, 
-    "type": "sgv", 
-    "glucose": 158
   }
 ]
