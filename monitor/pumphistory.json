@@ -2,6 +2,25 @@
   {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
+    "_description": "TempBasalDuration 2017-07-03T05:10:36 head[2], body[0] op[0x16]", 
+    "timestamp": "2017-07-03T05:10:36", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "64ca054311"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2017-07-03T05:10:36 head[2], body[1] op[0x33]", 
+    "timestamp": "2017-07-03T05:10:36", 
+    "_body": "00", 
+    "_head": "3336", 
+    "rate": 1.35, 
+    "_date": "64ca054311"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
     "_description": "TempBasalDuration 2017-07-03T04:59:09 head[2], body[0] op[0x16]", 
     "timestamp": "2017-07-03T04:59:09", 
     "_body": "", 
@@ -416,42 +435,5 @@
     "_head": "332c", 
     "rate": 1.1, 
     "_date": "5ece004311"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2017-07-03T00:01:49 head[2], body[0] op[0x16]", 
-    "timestamp": "2017-07-03T00:01:49", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "71c1004311"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2017-07-03T00:01:49 head[2], body[1] op[0x33]", 
-    "timestamp": "2017-07-03T00:01:49", 
-    "_body": "00", 
-    "_head": "332d", 
-    "rate": 1.125, 
-    "_date": "71c1004311"
-  }, 
-  {
-    "_type": "Sara6E", 
-    "_description": "Sara6E 2017-07-03T00:00:00 head[1], body[49] op[0x6e]", 
-    "timestamp": "2017-07-03T00:00:00", 
-    "_body": "050083000006000007e704373503b02f00c8025c004400c0005002010101007c1a3713ec3100002dd60000000000000000", 
-    "valid_date": "2017-07-02", 
-    "_head": "6e", 
-    "_date": "6291"
-  }, 
-  {
-    "_type": "ResultDailyTotal", 
-    "_description": "ResultDailyTotal 2017-07-03T00:00:00 head[5], body[3] op[0x07]", 
-    "timestamp": "2017-07-03T00:00:00", 
-    "_body": "000000", 
-    "valid_date": "2017-07-02", 
-    "_head": "07000007e7", 
-    "_date": "6291"
   }
 ]
