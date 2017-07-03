@@ -1,5 +1,15 @@
 [
   {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2017-07-03T06:44:00 head[3], body[0] op[0x0b]", 
+    "alarm_type": 105, 
+    "alarm_description": "Cal Reminder", 
+    "_body": "", 
+    "_head": "0b6900", 
+    "timestamp": "2017-07-03T06:44:00+02:00", 
+    "_date": "40ec26a311"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2017-07-03T06:41:33 head[2], body[0] op[0x16]", 
     "timestamp": "2017-07-03T06:41:33+02:00", 
