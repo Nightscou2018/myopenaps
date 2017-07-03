@@ -14,21 +14,5 @@
     "sgv": 66, 
     "type": "sgv", 
     "glucose": 66
-  }, 
-  {
-    "body": "48", 
-    "display_time": "2017-07-03T13:41:00+02:00", 
-    "date": 1499082060000, 
-    "name": "CalBGForGH", 
-    "date_type": "minSpecific", 
-    "_tell": 3, 
-    "dateString": "2017-07-03T13:41:00+02:00", 
-    "packet_size": 5, 
-    "raw": "4d-e9-03-11-48", 
-    "op": "0x0e", 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 72, 
-    "type": "pumpdata", 
-    "glucose": 72
   }
 ]
