@@ -1,0 +1,18 @@
+[
+  {
+    "trend_arrow": "DOUBLE_UP", 
+    "direction": "DoubleUp", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "display_time": "2017-07-03T07:45:00+02:00", 
+    "packet_size": 0, 
+    "dateString": "2017-07-03T07:45:00+02:00", 
+    "date": 1499060700000, 
+    "op": 52, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 104, 
+    "type": "sgv", 
+    "glucose": 104
+  }
+]
