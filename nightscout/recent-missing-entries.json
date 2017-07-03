@@ -1,11 +1,27 @@
 [
   {
     "trend_arrow": "FLAT", 
-    "glucose": 182, 
+    "glucose": 180, 
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
+    "display_time": "2017-07-03T09:42:00+02:00", 
+    "packet_size": 0, 
+    "dateString": "2017-07-03T09:42:00+02:00", 
+    "device": "openaps://medtronic/pump/cgm", 
+    "date": 1499067720000, 
+    "sgv": 180, 
+    "type": "sgv", 
+    "op": 90
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "glucose": 182, 
+    "direction": "Flat", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 3, 
     "display_time": "2017-07-03T09:37:00+02:00", 
     "packet_size": 0, 
     "dateString": "2017-07-03T09:37:00+02:00", 
