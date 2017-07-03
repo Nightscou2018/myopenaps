@@ -11,8 +11,8 @@
     "glucose": 100
   }, 
   {
-    "trend_arrow": "SINGLE_UP", 
-    "direction": "SingleUp", 
+    "trend_arrow": "FLAT", 
+    "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 7, 
@@ -2992,78 +2992,12 @@
     "glucose": 192
   }, 
   {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
+    "display_time": "2017-07-02T16:01:00+02:00", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 367, 
-    "display_time": "2017-07-02T16:01:00+02:00", 
     "packet_size": 0, 
     "op": 97, 
     "glucose": 194
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 368, 
-    "display_time": "2017-07-02T15:56:00+02:00", 
-    "packet_size": 0, 
-    "op": 100, 
-    "glucose": 200
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 369, 
-    "display_time": "2017-07-02T15:51:00+02:00", 
-    "packet_size": 0, 
-    "op": 101, 
-    "glucose": 202
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 370, 
-    "display_time": "2017-07-02T15:46:00+02:00", 
-    "packet_size": 0, 
-    "op": 104, 
-    "glucose": 208
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 371, 
-    "display_time": "2017-07-02T15:41:00+02:00", 
-    "packet_size": 0, 
-    "op": 106, 
-    "glucose": 212
-  }, 
-  {
-    "display_time": "2017-07-02T15:37:00+02:00", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 379, 
-    "packet_size": 0, 
-    "op": 106, 
-    "glucose": 212
-  }, 
-  {
-    "body": "d6", 
-    "display_time": "2017-07-02T15:25:00+02:00", 
-    "name": "CalBGForGH", 
-    "date_type": "minSpecific", 
-    "_tell": 384, 
-    "packet_size": 5, 
-    "raw": "4f-d9-02-11-d6", 
-    "op": "0x0e", 
-    "glucose": 214
   }
 ]
